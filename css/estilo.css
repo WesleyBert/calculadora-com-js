@@ -1,0 +1,36 @@
+main{
+    display: flex;
+    justify-content:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: radial-gradient(circle at 36.49% 12.89%, #aa459c 0, #963695 16.67%, #7c228c 33.33%, #5c037f 50%, #380073 66.67%, #00006a 83.33%, #000064 100%);
+    width: 100%;
+    height: 150em;
+}
+form {
+    margin: 2em 2em;
+}
+.container{
+    background-color: white;
+    margin: 5em;
+    border: solid ;
+    border-radius: 20px;
+    color: rgb(31, 9, 9);
+    padding: 30px 40px;
+    width: 50%;
+    height: 20%;
+}
+h1{
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    font-weight: bolder;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+button {
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    background: rgb(115, 207, 115);
+    margin: 1em;
+}
